@@ -1,0 +1,9 @@
+selenium
+pandas
+numpy
+shapely
+geopandas
+matplotlib
+plotly
+geopy
+folium
